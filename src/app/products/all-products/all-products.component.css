@@ -1,0 +1,14 @@
+.banner{
+    background-image: url('https://thumbs.dreamstime.com/z/summer-shopping-banner-customers-flat-style-young-people-bags-retail-seasonal-promotion-advertisement-template-special-151596681.jpg');
+    background-size: cover;
+    background-position: center;
+
+}
+
+.card img{
+    transition: 3s;
+}
+.card:hover img{
+    transform: scale(1.1);
+    transition: 2s;
+}
